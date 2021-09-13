@@ -1,4 +1,4 @@
-package com.javaproject;
+package com.javaproject.Task1;
 
 public class ShapeTester {
     public static void main(String[] args) {

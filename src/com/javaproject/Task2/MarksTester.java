@@ -1,4 +1,4 @@
-package com.javaproject;
+package com.javaproject.Task2;
 
 public class MarksTester {
     public static void main(String[] args) {

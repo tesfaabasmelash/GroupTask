@@ -1,4 +1,4 @@
-package com.javaproject;
+package com.javaproject.Task4;
 
 public interface WebDriver{
     void open();

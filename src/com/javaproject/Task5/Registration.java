@@ -1,4 +1,4 @@
-package com.javaproject;
+package com.javaproject.Task5;
 /*
     Task5
         Create  Registration  Class  in  which  you would have variables as email,

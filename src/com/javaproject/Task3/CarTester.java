@@ -1,4 +1,4 @@
-package com.javaproject;
+package com.javaproject.Task3;
 
 public class CarTester {
     public static void main(String[] args) {

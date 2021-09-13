@@ -1,4 +1,4 @@
-package com.javaproject;
+package com.javaproject.Task3;
 /*
     Task3
         Create  a  Class  Car  that  would  have  the following  fields:

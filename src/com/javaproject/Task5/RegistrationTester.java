@@ -1,4 +1,4 @@
-package com.javaproject;
+package com.javaproject.Task5;
 
 public class RegistrationTester {
     public static void main(String[] args) {

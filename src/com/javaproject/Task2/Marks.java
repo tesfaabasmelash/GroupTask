@@ -1,4 +1,4 @@
-package com.javaproject;
+package com.javaproject.Task2;
 /*
     Task2
         We  have  to  calculate  the  average  of  marks obtained in three subjects by student A and by student B.

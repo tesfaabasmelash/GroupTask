@@ -1,4 +1,4 @@
-package com.javaproject;
+package com.javaproject.Task1;
 
 /*
 Task1
